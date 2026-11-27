@@ -10,7 +10,7 @@ working_days = int(input("Enter working days: "))
 
 total = calculate_wages(daily_wage, working_days)
 danuu
-
+sanuu
 print("\n----- Employee Salary Details -----")
 print("Employee Name:", name)
 print("Daily Wage:", daily_wage)
